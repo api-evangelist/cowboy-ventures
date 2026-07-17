@@ -1,0 +1,906 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.cowboy.vc/portfolio
+summary:
+  portfolio_total: 88
+  in_network: 16
+  api_providers: 9
+  missing: 72
+  stubs_created: 0
+companies:
+- name: Guild
+  url: https://www.guild.com
+  description: Career opportunity and education-as-a-benefit platform for the American workforce.
+  sector: future-of-work
+  stage: growth
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: guild
+- name: Drata
+  url: https://drata.com
+  description: Security and compliance automation platform (SOC 2, ISO 27001).
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  slug: drata
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Homebase
+  url: https://www.joinhomebase.com
+  description: Team management and scheduling software for hourly work.
+  sector: future-of-work
+  stage: growth
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  slug: homebase
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Basata
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/basata
+  in_network: false
+  is_api_provider: false
+  suggested_slug: basata
+- name: Vic.ai
+  url: https://www.vic.ai
+  description: AI-powered accounting and accounts payable automation.
+  sector: fintech
+  stage: series-c
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vicai
+- name: Mutiny
+  url: https://www.mutinyhq.com
+  description: No-code platform to personalize websites for B2B conversion.
+  sector: enterprise
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mutiny
+- name: Petual
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/petual
+  in_network: false
+  is_api_provider: false
+  suggested_slug: petual
+- name: Continuum
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/continuum
+  in_network: false
+  is_api_provider: false
+  suggested_slug: continuum
+- name: Capstack
+  url: https://www.capstack.com
+  description: Balance sheet and financial collaboration platform for banks.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: capstack
+- name: Samooha
+  url: null
+  description: Data clean room collaboration platform.
+  sector: data
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/samooha
+  in_network: false
+  is_api_provider: false
+  suggested_slug: samooha
+- name: Elementary Data
+  url: https://www.elementary-data.com
+  description: Data observability and reliability platform (dbt-native).
+  sector: data
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  slug: data-quality-standards
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Getaway
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/getaway
+  in_network: false
+  is_api_provider: false
+  suggested_slug: getaway
+- name: Eisen
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/eisen
+  in_network: false
+  is_api_provider: false
+  suggested_slug: eisen
+- name: Portex
+  url: null
+  description: Freight logistics and procurement platform.
+  sector: logistics
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/portex-2
+  in_network: false
+  is_api_provider: false
+  suggested_slug: portex
+- name: Uplimit
+  url: https://uplimit.com
+  description: AI-powered corporate learning and upskilling platform.
+  sector: future-of-work
+  stage: series-a
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: uplimit
+- name: Palla
+  url: https://www.palla.com
+  description: Cross-border payments and remittance platform.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: palla
+- name: GetSetup
+  url: https://www.getsetup.io
+  description: Learning platform and community for older adults.
+  sector: consumer
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: getsetup
+- name: Arcol
+  url: https://www.arcol.io
+  description: Collaborative, browser-based building design software.
+  sector: vertical-software
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: arcol
+- name: Maestro
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/maestro
+  slug: maestro
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Squad
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/squad
+  in_network: false
+  is_api_provider: false
+  suggested_slug: squad
+- name: LaunchNotes
+  url: https://www.launchnotes.com
+  description: Product communication and changelog platform.
+  sector: enterprise
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  slug: launchnotes
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Contra
+  url: https://contra.com
+  description: Commission-free platform for independent professionals.
+  sector: future-of-work
+  stage: series-a
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: contra
+- name: effx
+  url: https://www.effx.com
+  description: Microservices management and operations platform.
+  sector: developer-tools
+  stage: seed
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: effx
+- name: Planet FWD
+  url: https://www.planetfwd.com
+  description: Carbon management and sustainable product platform.
+  sector: climate
+  stage: series-a
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: planet-fwd
+- name: Wednesday
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/wednesday-2
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wednesday
+- name: Enrich
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: fintech
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/enrich
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enrich
+- name: Gradio
+  url: https://www.gradio.app
+  description: Open-source library to build and share machine learning app demos.
+  sector: ai
+  stage: seed
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  slug: hugging-face-transformers
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ChartHop
+  url: https://www.charthop.com
+  description: People analytics and org management platform.
+  sector: future-of-work
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: charthop
+- name: Passbase
+  url: https://www.passbase.com
+  description: Identity verification and KYC developer platform.
+  sector: security
+  stage: seed
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: passbase
+- name: Newness
+  url: null
+  description: Live shopping community for beauty.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/newness
+  in_network: false
+  is_api_provider: false
+  suggested_slug: newness
+- name: Uno Health
+  url: https://www.unohealth.com
+  description: Helps Medicare members enroll in benefit programs they qualify for.
+  sector: healthcare
+  stage: series-a
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: uno-health
+- name: Mon Ami
+  url: https://www.monami.io
+  description: Care coordination software for aging and disability services.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mon-ami
+- name: Mixhalo
+  url: https://www.mixhalo.com
+  description: Real-time audio streaming for live events.
+  sector: consumer
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mixhalo
+- name: SVT Robotics
+  url: https://www.svtrobotics.com
+  description: Software platform to integrate warehouse robotics and automation.
+  sector: vertical-software
+  stage: series-a
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: svt-robotics
+- name: Binti
+  url: https://binti.com
+  description: Software for foster care and child welfare agencies.
+  sector: govtech
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: binti
+- name: LiftLab
+  url: null
+  description: Marketing measurement and optimization platform.
+  sector: enterprise
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/liftlab
+  in_network: false
+  is_api_provider: false
+  suggested_slug: liftlab
+- name: Natalist
+  url: https://www.natalist.com
+  description: Fertility and pregnancy products for family planning.
+  sector: consumer
+  stage: seed
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: natalist
+- name: Aura
+  url: https://www.aura.com
+  description: Consumer digital security, identity, and privacy platform.
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aura
+- name: Ironclad
+  url: https://ironcladapp.com
+  description: Digital contracting and contract lifecycle management platform.
+  sector: enterprise
+  stage: growth
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  slug: ironclad-clickwrap
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Fullcast
+  url: https://www.fullcast.com
+  description: Go-to-market and revenue operations planning platform.
+  sector: enterprise
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fullcast
+- name: Novi
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/novi
+  in_network: false
+  is_api_provider: false
+  suggested_slug: novi
+- name: Gixo
+  url: null
+  description: Live-streamed fitness and workout classes.
+  sector: consumer
+  stage: seed
+  status: acquired
+  source: https://www.cowboy.vc/portfolio/gixo
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gixo
+- name: Brava Home
+  url: https://www.brava.com
+  description: Smart countertop oven that cooks with light.
+  sector: consumer
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brava-home
+- name: Seneca Systems
+  url: null
+  description: Constituent relationship management for local government.
+  sector: govtech
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/seneca-systems
+  in_network: false
+  is_api_provider: false
+  suggested_slug: seneca-systems
+- name: Crunchbase
+  url: https://www.crunchbase.com
+  description: Company, funding, and market intelligence data platform.
+  sector: data
+  stage: growth
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  slug: crunchbase
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Manifest
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/manifest
+  in_network: false
+  is_api_provider: false
+  suggested_slug: manifest
+- name: Kimono Labs
+  url: null
+  description: Web scraping and data API tool.
+  sector: developer-tools
+  stage: seed
+  status: acquired
+  source: https://www.cowboy.vc/portfolio/kimono-labs
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kimono-labs
+- name: Pantry
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/pantry
+  slug: pantry
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Hooked
+  url: null
+  description: Mobile fiction and storytelling app.
+  sector: consumer
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/hooked
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hooked
+- name: Branch
+  url: https://branch.io
+  description: Mobile linking, deep linking, and attribution platform.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  slug: branch
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Textio
+  url: https://textio.com
+  description: Augmented writing platform for inclusive hiring and performance feedback.
+  sector: future-of-work
+  stage: series-c
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: textio
+- name: Guildery
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: consumer
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/guildery
+  in_network: false
+  is_api_provider: false
+  suggested_slug: guildery
+- name: Tenor
+  url: https://tenor.com
+  description: GIF search engine and keyboard.
+  sector: consumer
+  stage: series-b
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  slug: tenor
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Chime
+  url: https://www.chime.com
+  description: Consumer fintech and mobile banking platform.
+  sector: fintech
+  stage: ipo
+  status: ipo
+  source: https://www.cowboy.vc/portfolio
+  slug: chime
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Brickwork
+  url: null
+  description: Software connecting online shoppers to physical stores.
+  sector: consumer
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/brickwork
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brickwork
+- name: Aday
+  url: https://thisisaday.com
+  description: Sustainable technical womenswear brand.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aday
+- name: The League
+  url: https://www.theleague.com
+  description: Curated dating app for ambitious professionals.
+  sector: consumer
+  stage: series-a
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-league
+- name: MBX
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/mbx
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mbx
+- name: Product Hunt
+  url: https://www.producthunt.com
+  description: Community for discovering and launching new products.
+  sector: consumer
+  stage: series-a
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  slug: producthunt
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Area 1 Security
+  url: https://www.area1security.com
+  description: Cloud email security and phishing protection platform.
+  sector: security
+  stage: growth
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: area-1-security
+- name: Kerros Health
+  url: null
+  description: Healthcare technology company.
+  sector: healthcare
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/kerros-health
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kerros-health
+- name: Aviso
+  url: https://www.aviso.com
+  description: AI-driven revenue operations and sales forecasting platform.
+  sector: enterprise
+  stage: series-c
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aviso
+- name: Mighty Networks
+  url: https://www.mightynetworks.com
+  description: Platform to build community-driven courses and memberships.
+  sector: consumer
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  slug: mighty-networks
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Heartwork
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/heartwork
+  in_network: false
+  is_api_provider: false
+  suggested_slug: heartwork
+- name: LumaTax
+  url: null
+  description: Sales tax compliance software for small businesses.
+  sector: fintech
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/lumatax
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lumatax
+- name: Kiavi
+  url: https://www.kiavi.com
+  description: Financing platform for real estate investors (formerly LendingHome).
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kiavi
+- name: Rise
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/rise
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rise
+- name: DocSend
+  url: https://www.docsend.com
+  description: Secure document sharing and analytics for sales and fundraising.
+  sector: enterprise
+  stage: series-a
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: docsend
+- name: Lightstep
+  url: https://lightstep.com
+  description: Observability platform for microservices and distributed systems.
+  sector: developer-tools
+  stage: series-c
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  slug: lightstep
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: August Home
+  url: https://august.com
+  description: Smart locks and connected home access devices.
+  sector: consumer
+  stage: series-b
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: august-home
+- name: Spruce
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/spruce
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spruce
+- name: Drop
+  url: https://www.drop.com
+  description: Community-driven marketplace for enthusiast products.
+  sector: consumer
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: drop
+- name: Philz Coffee
+  url: https://www.philzcoffee.com
+  description: Specialty coffee roaster and retail chain.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: philz-coffee
+- name: Accompany
+  url: null
+  description: Relationship intelligence and executive briefing tool.
+  sector: enterprise
+  stage: series-b
+  status: acquired
+  source: https://www.cowboy.vc/portfolio/accompany
+  in_network: false
+  is_api_provider: false
+  suggested_slug: accompany
+- name: Soma
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: consumer
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/soma
+  in_network: false
+  is_api_provider: false
+  suggested_slug: soma
+- name: Librato
+  url: null
+  description: Cloud monitoring and metrics service.
+  sector: developer-tools
+  stage: seed
+  status: acquired
+  source: https://www.cowboy.vc/portfolio/librato
+  in_network: false
+  is_api_provider: false
+  suggested_slug: librato
+- name: Brit + Co
+  url: https://www.brit.co
+  description: Media and education platform for creative living.
+  sector: consumer
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brit-co
+- name: Polar
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/polar
+  slug: polar
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: StyleSeat
+  url: https://www.styleseat.com
+  description: Booking and business platform for beauty and wellness professionals.
+  sector: consumer
+  stage: series-b
+  status: active
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: styleseat
+- name: NuORDER
+  url: https://www.nuorder.com
+  description: B2B wholesale e-commerce platform for brands and retailers.
+  sector: enterprise
+  stage: series-c
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nuorder
+- name: nway
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/nway
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nway
+- name: Joyride
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: consumer
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/joyride
+  in_network: false
+  is_api_provider: false
+  suggested_slug: joyride
+- name: Dollar Shave Club
+  url: https://www.dollarshaveclub.com
+  description: Direct-to-consumer razor and grooming subscription brand.
+  sector: consumer
+  stage: growth
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dollar-shave-club
+- name: True & Co
+  url: null
+  description: Direct-to-consumer intimates and bras brand.
+  sector: consumer
+  stage: series-b
+  status: acquired
+  source: https://www.cowboy.vc/portfolio/true-co
+  in_network: false
+  is_api_provider: false
+  suggested_slug: true-and-co
+- name: Hone
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: future-of-work
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/hone
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hone
+- name: Byteboard
+  url: https://byteboard.dev
+  description: Real-world technical interview platform for engineering hiring.
+  sector: future-of-work
+  stage: seed
+  status: acquired
+  source: https://www.cowboy.vc/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: byteboard
+- name: SlideRule
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: active
+  source: https://www.cowboy.vc/portfolio/sliderule
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sliderule
+- name: Zeen
+  url: null
+  description: Cowboy Ventures portfolio company.
+  sector: unknown
+  stage: seed
+  status: unknown
+  source: https://www.cowboy.vc/portfolio/zeen
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zeen
