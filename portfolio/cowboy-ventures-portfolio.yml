@@ -3,9 +3,9 @@ method: searched
 source: https://www.cowboy.vc/portfolio
 summary:
   portfolio_total: 88
-  in_network: 16
-  api_providers: 9
-  missing: 72
+  in_network: 88
+  api_providers: 16
+  missing: 0
   stubs_created: 0
 companies:
 - name: Guild
@@ -15,9 +15,10 @@ companies:
   stage: growth
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: guild
+  slug: guild
+  matched_by: domain
 - name: Drata
   url: https://drata.com
   description: Security and compliance automation platform (SOC 2, ISO 27001).
@@ -47,9 +48,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/basata
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: basata
+  slug: basata
+  matched_by: name-slug
 - name: Vic.ai
   url: https://www.vic.ai
   description: AI-powered accounting and accounts payable automation.
@@ -57,9 +59,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: vicai
+  in_network: true
+  is_api_provider: true
+  slug: vicai
+  matched_by: domain
 - name: Mutiny
   url: https://www.mutinyhq.com
   description: No-code platform to personalize websites for B2B conversion.
@@ -67,9 +70,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mutiny
+  slug: mutiny-hq
+  matched_by: domain
 - name: Petual
   url: null
   description: Cowboy Ventures portfolio company.
@@ -77,9 +81,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/petual
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: petual
+  slug: petual
+  matched_by: name-slug
 - name: Continuum
   url: null
   description: Cowboy Ventures portfolio company.
@@ -87,9 +92,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/continuum
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: continuum
+  slug: continuum
+  matched_by: name-slug
 - name: Capstack
   url: https://www.capstack.com
   description: Balance sheet and financial collaboration platform for banks.
@@ -97,9 +103,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: capstack
+  slug: capstack
+  matched_by: name-slug
 - name: Samooha
   url: null
   description: Data clean room collaboration platform.
@@ -107,9 +114,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/samooha
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: samooha
+  slug: samooha
+  matched_by: name-slug
 - name: Elementary Data
   url: https://www.elementary-data.com
   description: Data observability and reliability platform (dbt-native).
@@ -128,9 +136,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/getaway
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: getaway
+  slug: getaway
+  matched_by: name-slug
 - name: Eisen
   url: null
   description: Cowboy Ventures portfolio company.
@@ -138,9 +147,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/eisen
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eisen
+  slug: eisen
+  matched_by: name-slug
 - name: Portex
   url: null
   description: Freight logistics and procurement platform.
@@ -148,9 +158,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/portex-2
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: portex
+  slug: portex
+  matched_by: name-slug
 - name: Uplimit
   url: https://uplimit.com
   description: AI-powered corporate learning and upskilling platform.
@@ -158,9 +169,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: uplimit
+  in_network: true
+  is_api_provider: true
+  slug: uplimit
+  matched_by: domain
 - name: Palla
   url: https://www.palla.com
   description: Cross-border payments and remittance platform.
@@ -168,9 +180,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: palla
+  in_network: true
+  is_api_provider: true
+  slug: palla
+  matched_by: domain
 - name: GetSetup
   url: https://www.getsetup.io
   description: Learning platform and community for older adults.
@@ -178,9 +191,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: getsetup
+  slug: getsetup
+  matched_by: domain
 - name: Arcol
   url: https://www.arcol.io
   description: Collaborative, browser-based building design software.
@@ -188,9 +202,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arcol
+  slug: arcol
+  matched_by: domain
 - name: Maestro
   url: null
   description: Cowboy Ventures portfolio company.
@@ -209,9 +224,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/squad
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: squad
+  slug: squad
+  matched_by: name-slug
 - name: LaunchNotes
   url: https://www.launchnotes.com
   description: Product communication and changelog platform.
@@ -230,9 +246,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: contra
+  in_network: true
+  is_api_provider: true
+  slug: contra
+  matched_by: domain
 - name: effx
   url: https://www.effx.com
   description: Microservices management and operations platform.
@@ -240,9 +257,10 @@ companies:
   stage: seed
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: effx
+  slug: effx
+  matched_by: domain
 - name: Planet FWD
   url: https://www.planetfwd.com
   description: Carbon management and sustainable product platform.
@@ -250,9 +268,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: planet-fwd
+  slug: planet-fwd
+  matched_by: domain
 - name: Wednesday
   url: null
   description: Cowboy Ventures portfolio company.
@@ -260,9 +279,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/wednesday-2
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wednesday
+  slug: wednesday
+  matched_by: name-slug
 - name: Enrich
   url: null
   description: Cowboy Ventures portfolio company.
@@ -270,9 +290,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/enrich
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enrich
+  slug: enrich
+  matched_by: name-slug
 - name: Gradio
   url: https://www.gradio.app
   description: Open-source library to build and share machine learning app demos.
@@ -291,9 +312,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: charthop
+  in_network: true
+  is_api_provider: true
+  slug: charthop
+  matched_by: domain
 - name: Passbase
   url: https://www.passbase.com
   description: Identity verification and KYC developer platform.
@@ -301,9 +323,10 @@ companies:
   stage: seed
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: passbase
+  in_network: true
+  is_api_provider: true
+  slug: passbase
+  matched_by: domain
 - name: Newness
   url: null
   description: Live shopping community for beauty.
@@ -311,9 +334,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/newness
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: newness
+  slug: newness
+  matched_by: name-slug
 - name: Uno Health
   url: https://www.unohealth.com
   description: Helps Medicare members enroll in benefit programs they qualify for.
@@ -321,9 +345,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: uno-health
+  slug: uno-health
+  matched_by: domain
 - name: Mon Ami
   url: https://www.monami.io
   description: Care coordination software for aging and disability services.
@@ -331,9 +356,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mon-ami
+  slug: monami
+  matched_by: domain
 - name: Mixhalo
   url: https://www.mixhalo.com
   description: Real-time audio streaming for live events.
@@ -341,9 +367,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mixhalo
+  slug: mixhalo
+  matched_by: domain
 - name: SVT Robotics
   url: https://www.svtrobotics.com
   description: Software platform to integrate warehouse robotics and automation.
@@ -351,9 +378,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: svt-robotics
+  slug: svt-robotics
+  matched_by: domain
 - name: Binti
   url: https://binti.com
   description: Software for foster care and child welfare agencies.
@@ -361,9 +389,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: binti
+  slug: binti
+  matched_by: domain
 - name: LiftLab
   url: null
   description: Marketing measurement and optimization platform.
@@ -371,9 +400,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/liftlab
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: liftlab
+  slug: liftlab
+  matched_by: name-slug
 - name: Natalist
   url: https://www.natalist.com
   description: Fertility and pregnancy products for family planning.
@@ -381,9 +411,10 @@ companies:
   stage: seed
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: natalist
+  slug: natalist
+  matched_by: domain
 - name: Aura
   url: https://www.aura.com
   description: Consumer digital security, identity, and privacy platform.
@@ -391,9 +422,10 @@ companies:
   stage: growth
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aura
+  slug: aura
+  matched_by: domain
 - name: Ironclad
   url: https://ironcladapp.com
   description: Digital contracting and contract lifecycle management platform.
@@ -412,9 +444,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fullcast
+  slug: fullcast
+  matched_by: domain
 - name: Novi
   url: null
   description: Cowboy Ventures portfolio company.
@@ -422,9 +455,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/novi
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: novi
+  slug: novi
+  matched_by: name-slug
 - name: Gixo
   url: null
   description: Live-streamed fitness and workout classes.
@@ -432,9 +466,10 @@ companies:
   stage: seed
   status: acquired
   source: https://www.cowboy.vc/portfolio/gixo
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gixo
+  slug: gixo
+  matched_by: name-slug
 - name: Brava Home
   url: https://www.brava.com
   description: Smart countertop oven that cooks with light.
@@ -442,9 +477,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: brava-home
+  slug: brava-home
+  matched_by: domain
 - name: Seneca Systems
   url: null
   description: Constituent relationship management for local government.
@@ -452,9 +488,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/seneca-systems
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: seneca-systems
+  slug: seneca-systems
+  matched_by: name-slug
 - name: Crunchbase
   url: https://www.crunchbase.com
   description: Company, funding, and market intelligence data platform.
@@ -473,9 +510,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/manifest
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: manifest
+  slug: manifest
+  matched_by: name-slug
 - name: Kimono Labs
   url: null
   description: Web scraping and data API tool.
@@ -483,9 +521,10 @@ companies:
   stage: seed
   status: acquired
   source: https://www.cowboy.vc/portfolio/kimono-labs
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kimono-labs
+  slug: kimono-labs
+  matched_by: name-slug
 - name: Pantry
   url: null
   description: Cowboy Ventures portfolio company.
@@ -504,9 +543,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/hooked
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hooked
+  slug: hooked
+  matched_by: name-slug
 - name: Branch
   url: https://branch.io
   description: Mobile linking, deep linking, and attribution platform.
@@ -525,9 +565,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: textio
+  slug: textio
+  matched_by: domain
 - name: Guildery
   url: null
   description: Cowboy Ventures portfolio company.
@@ -535,9 +576,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/guildery
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: guildery
+  slug: guildery
+  matched_by: name-slug
 - name: Tenor
   url: https://tenor.com
   description: GIF search engine and keyboard.
@@ -567,9 +609,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/brickwork
-  in_network: false
-  is_api_provider: false
-  suggested_slug: brickwork
+  in_network: true
+  is_api_provider: true
+  slug: brickwork
+  matched_by: name-slug
 - name: Aday
   url: https://thisisaday.com
   description: Sustainable technical womenswear brand.
@@ -577,9 +620,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aday
+  slug: aday
+  matched_by: domain
 - name: The League
   url: https://www.theleague.com
   description: Curated dating app for ambitious professionals.
@@ -587,9 +631,10 @@ companies:
   stage: series-a
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-league
+  slug: the-league
+  matched_by: domain
 - name: MBX
   url: null
   description: Cowboy Ventures portfolio company.
@@ -597,9 +642,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/mbx
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mbx
+  slug: mbx
+  matched_by: name-slug
 - name: Product Hunt
   url: https://www.producthunt.com
   description: Community for discovering and launching new products.
@@ -618,9 +664,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: area-1-security
+  slug: area-1-security
+  matched_by: domain
 - name: Kerros Health
   url: null
   description: Healthcare technology company.
@@ -628,9 +675,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/kerros-health
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kerros-health
+  slug: kerros-health
+  matched_by: name-slug
 - name: Aviso
   url: https://www.aviso.com
   description: AI-driven revenue operations and sales forecasting platform.
@@ -638,9 +686,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aviso
+  slug: aviso
+  matched_by: domain
 - name: Mighty Networks
   url: https://www.mightynetworks.com
   description: Platform to build community-driven courses and memberships.
@@ -659,9 +708,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/heartwork
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: heartwork
+  slug: heartwork
+  matched_by: name-slug
 - name: LumaTax
   url: null
   description: Sales tax compliance software for small businesses.
@@ -669,9 +719,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/lumatax
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lumatax
+  slug: lumatax
+  matched_by: name-slug
 - name: Kiavi
   url: https://www.kiavi.com
   description: Financing platform for real estate investors (formerly LendingHome).
@@ -679,9 +730,10 @@ companies:
   stage: growth
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kiavi
+  slug: kiavi
+  matched_by: domain
 - name: Rise
   url: null
   description: Cowboy Ventures portfolio company.
@@ -689,9 +741,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/rise
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rise
+  slug: rise
+  matched_by: name-slug
 - name: DocSend
   url: https://www.docsend.com
   description: Secure document sharing and analytics for sales and fundraising.
@@ -699,9 +752,10 @@ companies:
   stage: series-a
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: docsend
+  slug: docsend
+  matched_by: domain
 - name: Lightstep
   url: https://lightstep.com
   description: Observability platform for microservices and distributed systems.
@@ -720,9 +774,10 @@ companies:
   stage: series-b
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: august-home
+  slug: august
+  matched_by: domain
 - name: Spruce
   url: null
   description: Cowboy Ventures portfolio company.
@@ -730,9 +785,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/spruce
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: spruce
+  slug: spruce
+  matched_by: name-slug
 - name: Drop
   url: https://www.drop.com
   description: Community-driven marketplace for enthusiast products.
@@ -740,9 +796,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: drop
+  slug: drop
+  matched_by: domain
 - name: Philz Coffee
   url: https://www.philzcoffee.com
   description: Specialty coffee roaster and retail chain.
@@ -750,9 +807,10 @@ companies:
   stage: growth
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: philz-coffee
+  slug: philz-coffee
+  matched_by: domain
 - name: Accompany
   url: null
   description: Relationship intelligence and executive briefing tool.
@@ -760,9 +818,10 @@ companies:
   stage: series-b
   status: acquired
   source: https://www.cowboy.vc/portfolio/accompany
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: accompany
+  slug: accompany
+  matched_by: name-slug
 - name: Soma
   url: null
   description: Cowboy Ventures portfolio company.
@@ -770,9 +829,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/soma
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: soma
+  slug: soma
+  matched_by: name-slug
 - name: Librato
   url: null
   description: Cloud monitoring and metrics service.
@@ -780,9 +840,10 @@ companies:
   stage: seed
   status: acquired
   source: https://www.cowboy.vc/portfolio/librato
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: librato
+  slug: librato
+  matched_by: name-slug
 - name: Brit + Co
   url: https://www.brit.co
   description: Media and education platform for creative living.
@@ -790,9 +851,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: brit-co
+  slug: brit
+  matched_by: domain
 - name: Polar
   url: null
   description: Cowboy Ventures portfolio company.
@@ -811,9 +873,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: styleseat
+  slug: styleseat
+  matched_by: domain
 - name: NuORDER
   url: https://www.nuorder.com
   description: B2B wholesale e-commerce platform for brands and retailers.
@@ -821,9 +884,10 @@ companies:
   stage: series-c
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nuorder
+  slug: nuorder
+  matched_by: domain
 - name: nway
   url: null
   description: Cowboy Ventures portfolio company.
@@ -831,9 +895,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/nway
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nway
+  slug: nway
+  matched_by: name-slug
 - name: Joyride
   url: null
   description: Cowboy Ventures portfolio company.
@@ -841,9 +906,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/joyride
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: joyride
+  slug: joyride
+  matched_by: name-slug
 - name: Dollar Shave Club
   url: https://www.dollarshaveclub.com
   description: Direct-to-consumer razor and grooming subscription brand.
@@ -851,9 +917,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dollar-shave-club
+  slug: dollar-shave-club
+  matched_by: domain
 - name: True & Co
   url: null
   description: Direct-to-consumer intimates and bras brand.
@@ -861,9 +928,10 @@ companies:
   stage: series-b
   status: acquired
   source: https://www.cowboy.vc/portfolio/true-co
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: true-and-co
+  slug: true-and-co
+  matched_by: name-slug
 - name: Hone
   url: null
   description: Cowboy Ventures portfolio company.
@@ -871,9 +939,10 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/hone
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hone
+  slug: hone
+  matched_by: name-slug
 - name: Byteboard
   url: https://byteboard.dev
   description: Real-world technical interview platform for engineering hiring.
@@ -881,9 +950,10 @@ companies:
   stage: seed
   status: acquired
   source: https://www.cowboy.vc/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: byteboard
+  slug: byteboard
+  matched_by: domain
 - name: SlideRule
   url: null
   description: Cowboy Ventures portfolio company.
@@ -891,9 +961,10 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/sliderule
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sliderule
+  slug: sliderule
+  matched_by: name-slug
 - name: Zeen
   url: null
   description: Cowboy Ventures portfolio company.
@@ -901,6 +972,7 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/zeen
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zeen
+  slug: zeen
+  matched_by: name-slug
