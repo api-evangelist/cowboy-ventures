@@ -59,10 +59,12 @@ tags_raw:
   - Healthcare
   - United States
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.cowboy.vc/news
+    type: Blog
   - type: Website
     url: https://www.cowboy.vc
   - type: Portfolio
