@@ -1,4 +1,25 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: cowboy-ventures
-leads: []
+leads:
+- name: Novi
+  url: ''
+  suggested_slug: novi
+  sector: unknown
+  source_vc: cowboy-ventures
+  source: https://www.cowboy.vc/portfolio/novi
+  stub_created: false
+- name: Crunchbase
+  url: https://www.crunchbase.com
+  suggested_slug: crunchbase
+  sector: data
+  source_vc: cowboy-ventures
+  source: https://www.cowboy.vc/portfolio
+  stub_created: false
+- name: Spruce
+  url: ''
+  suggested_slug: spruce
+  sector: unknown
+  source_vc: cowboy-ventures
+  source: https://www.cowboy.vc/portfolio/spruce
+  stub_created: false

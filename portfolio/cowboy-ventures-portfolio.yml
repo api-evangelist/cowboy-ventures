@@ -3,9 +3,9 @@ method: searched
 source: https://www.cowboy.vc/portfolio
 summary:
   portfolio_total: 88
-  in_network: 88
-  api_providers: 16
-  missing: 0
+  in_network: 85
+  api_providers: 17
+  missing: 3
   stubs_created: 0
 companies:
 - name: Guild
@@ -357,8 +357,8 @@ companies:
   status: active
   source: https://www.cowboy.vc/portfolio
   in_network: true
-  is_api_provider: false
-  slug: monami
+  is_api_provider: true
+  slug: mon-ami
   matched_by: domain
 - name: Mixhalo
   url: https://www.mixhalo.com
@@ -445,7 +445,7 @@ companies:
   status: active
   source: https://www.cowboy.vc/portfolio
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: fullcast
   matched_by: domain
 - name: Novi
@@ -455,10 +455,9 @@ companies:
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/novi
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: novi
-  matched_by: name-slug
+  suggested_slug: novi
 - name: Gixo
   url: null
   description: Live-streamed fitness and workout classes.
@@ -499,10 +498,9 @@ companies:
   stage: growth
   status: active
   source: https://www.cowboy.vc/portfolio
-  slug: crunchbase
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crunchbase
 - name: Manifest
   url: null
   description: Cowboy Ventures portfolio company.
@@ -785,10 +783,9 @@ companies:
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/spruce
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: spruce
-  matched_by: name-slug
+  suggested_slug: spruce
 - name: Drop
   url: https://www.drop.com
   description: Community-driven marketplace for enthusiast products.
@@ -919,7 +916,7 @@ companies:
   source: https://www.cowboy.vc/portfolio
   in_network: true
   is_api_provider: false
-  slug: dollar-shave-club
+  slug: dollar-shave
   matched_by: domain
 - name: True & Co
   url: null
