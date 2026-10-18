@@ -9,10 +9,3 @@ leads:
   source_vc: cowboy-ventures
   source: https://www.cowboy.vc/portfolio
   stub_created: false
-- name: Spruce
-  url: ''
-  suggested_slug: spruce
-  sector: unknown
-  source_vc: cowboy-ventures
-  source: https://www.cowboy.vc/portfolio/spruce
-  stub_created: false

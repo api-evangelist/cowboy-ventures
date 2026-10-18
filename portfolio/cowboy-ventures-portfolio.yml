@@ -3,9 +3,9 @@ method: searched
 source: https://www.cowboy.vc/portfolio
 summary:
   portfolio_total: 88
-  in_network: 86
-  api_providers: 17
-  missing: 2
+  in_network: 87
+  api_providers: 18
+  missing: 1
   stubs_created: 0
 companies:
 - name: Guild
@@ -799,16 +799,17 @@ companies:
   slug: august
   matched_by: domain
 - name: Spruce
-  url: null
+  url: https://sprucehealth.com:443/
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
   status: unknown
   source: https://www.cowboy.vc/portfolio/spruce
-  in_network: false
-  is_api_provider: false
-  suggested_slug: spruce
-  x-url-candidate: https://sprucehealth.com:443/
+  in_network: true
+  is_api_provider: true
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: spruce-health
+  matched_by: domain
 - name: Drop
   url: https://www.drop.com
   description: Community-driven marketplace for enthusiast products.
