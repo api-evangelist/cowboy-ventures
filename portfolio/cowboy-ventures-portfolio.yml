@@ -42,7 +42,7 @@ companies:
   is_api_provider: false
   matched_by: domain
 - name: Basata
-  url: null
+  url: https://www.basata.ai/
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
@@ -51,7 +51,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: basata
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Vic.ai
   url: https://www.vic.ai
   description: AI-powered accounting and accounts payable automation.
@@ -75,7 +76,7 @@ companies:
   slug: mutiny-hq
   matched_by: domain
 - name: Petual
-  url: null
+  url: https://petual.com
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
@@ -84,9 +85,10 @@ companies:
   in_network: true
   is_api_provider: false
   slug: petual
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Continuum
-  url: null
+  url: https://gocontinuum.ai/
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
@@ -95,7 +97,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: continuum
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Capstack
   url: https://www.capstack.com
   description: Balance sheet and financial collaboration platform for banks.
@@ -108,7 +111,7 @@ companies:
   slug: capstack
   matched_by: name-slug
 - name: Samooha
-  url: null
+  url: https://www.samooha.com
   description: Data clean room collaboration platform.
   sector: data
   stage: seed
@@ -117,7 +120,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: samooha
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Elementary Data
   url: https://www.elementary-data.com
   description: Data observability and reliability platform (dbt-native).
@@ -141,7 +145,7 @@ companies:
   slug: getaway
   matched_by: name-slug
 - name: Eisen
-  url: null
+  url: https://www.witheisen.com
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
@@ -150,9 +154,10 @@ companies:
   in_network: true
   is_api_provider: false
   slug: eisen
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Portex
-  url: null
+  url: https://www.portexpro.com/
   description: Freight logistics and procurement platform.
   sector: logistics
   stage: seed
@@ -161,7 +166,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: portex
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Uplimit
   url: https://uplimit.com
   description: AI-powered corporate learning and upskilling platform.
@@ -217,6 +223,7 @@ companies:
   in_network: true
   is_api_provider: false
   matched_by: name-slug
+  x-url-candidate: https://maestro.com
 - name: Squad
   url: null
   description: Cowboy Ventures portfolio company.
@@ -228,6 +235,7 @@ companies:
   is_api_provider: false
   slug: squad
   matched_by: name-slug
+  x-url-candidate: https://squad.com
 - name: LaunchNotes
   url: https://www.launchnotes.com
   description: Product communication and changelog platform.
@@ -284,7 +292,7 @@ companies:
   slug: wednesday
   matched_by: name-slug
 - name: Enrich
-  url: null
+  url: https://www.joinenrich.com/
   description: Cowboy Ventures portfolio company.
   sector: fintech
   stage: seed
@@ -293,7 +301,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: enrich
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Gradio
   url: https://www.gradio.app
   description: Open-source library to build and share machine learning app demos.
@@ -338,6 +347,7 @@ companies:
   is_api_provider: false
   slug: newness
   matched_by: name-slug
+  x-url-candidate: https://www.newness.ai/
 - name: Uno Health
   url: https://www.unohealth.com
   description: Helps Medicare members enroll in benefit programs they qualify for.
@@ -394,7 +404,7 @@ companies:
   slug: binti
   matched_by: domain
 - name: LiftLab
-  url: null
+  url: https://liftlab.com/
   description: Marketing measurement and optimization platform.
   sector: enterprise
   stage: seed
@@ -403,7 +413,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: liftlab
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Natalist
   url: https://www.natalist.com
   description: Fertility and pregnancy products for family planning.
@@ -469,6 +480,7 @@ companies:
   is_api_provider: false
   slug: gixo
   matched_by: name-slug
+  x-url-candidate: https://gixo.ai
 - name: Brava Home
   url: https://www.brava.com
   description: Smart countertop oven that cooks with light.
@@ -481,7 +493,7 @@ companies:
   slug: brava-home
   matched_by: domain
 - name: Seneca Systems
-  url: null
+  url: https://seneca.systems
   description: Constituent relationship management for local government.
   sector: govtech
   stage: seed
@@ -490,7 +502,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: seneca-systems
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Crunchbase
   url: https://www.crunchbase.com
   description: Company, funding, and market intelligence data platform.
@@ -512,6 +525,7 @@ companies:
   is_api_provider: false
   slug: manifest
   matched_by: name-slug
+  x-url-candidate: https://manifest.com
 - name: Kimono Labs
   url: null
   description: Web scraping and data API tool.
@@ -524,7 +538,7 @@ companies:
   slug: kimono-labs
   matched_by: name-slug
 - name: Pantry
-  url: null
+  url: https://getpantry.cloud/
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
@@ -533,9 +547,10 @@ companies:
   slug: pantry
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Hooked
-  url: null
+  url: https://hooked.co
   description: Mobile fiction and storytelling app.
   sector: consumer
   stage: seed
@@ -544,7 +559,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: hooked
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Branch
   url: https://branch.io
   description: Mobile linking, deep linking, and attribution platform.
@@ -677,6 +693,7 @@ companies:
   is_api_provider: false
   slug: kerros-health
   matched_by: name-slug
+  x-url-candidate: https://kerros.com
 - name: Aviso
   url: https://www.aviso.com
   description: AI-driven revenue operations and sales forecasting platform.
@@ -710,8 +727,9 @@ companies:
   is_api_provider: false
   slug: heartwork
   matched_by: name-slug
+  x-url-candidate: https://heartwork.com
 - name: LumaTax
-  url: null
+  url: https://www.taxually.com/lumatax
   description: Sales tax compliance software for small businesses.
   sector: fintech
   stage: seed
@@ -720,7 +738,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: lumatax
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Kiavi
   url: https://www.kiavi.com
   description: Financing platform for real estate investors (formerly LendingHome).
@@ -743,6 +762,7 @@ companies:
   is_api_provider: false
   slug: rise
   matched_by: name-slug
+  x-url-candidate: https://rise.com
 - name: DocSend
   url: https://www.docsend.com
   description: Secure document sharing and analytics for sales and fundraising.
@@ -786,6 +806,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: spruce
+  x-url-candidate: https://sprucehealth.com:443/
 - name: Drop
   url: https://www.drop.com
   description: Community-driven marketplace for enthusiast products.
@@ -809,7 +830,7 @@ companies:
   slug: philz-coffee
   matched_by: domain
 - name: Accompany
-  url: null
+  url: https://www.accompany.com/
   description: Relationship intelligence and executive briefing tool.
   sector: enterprise
   stage: series-b
@@ -818,9 +839,10 @@ companies:
   in_network: true
   is_api_provider: false
   slug: accompany
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Soma
-  url: null
+  url: https://www.somainsure.com/
   description: Cowboy Ventures portfolio company.
   sector: consumer
   stage: seed
@@ -829,7 +851,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: soma
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Librato
   url: null
   description: Cloud monitoring and metrics service.
@@ -841,6 +864,7 @@ companies:
   is_api_provider: false
   slug: librato
   matched_by: name-slug
+  x-url-candidate: https://librato.ai
 - name: Brit + Co
   url: https://www.brit.co
   description: Media and education platform for creative living.
@@ -853,7 +877,7 @@ companies:
   slug: brit
   matched_by: domain
 - name: Polar
-  url: null
+  url: https://www.polar.com/welcome/
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
@@ -862,7 +886,8 @@ companies:
   slug: polar
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: StyleSeat
   url: https://www.styleseat.com
   description: Booking and business platform for beauty and wellness professionals.
@@ -886,7 +911,7 @@ companies:
   slug: nuorder
   matched_by: domain
 - name: nway
-  url: null
+  url: https://nway.com
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
@@ -895,7 +920,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: nway
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Joyride
   url: null
   description: Cowboy Ventures portfolio company.
@@ -907,6 +933,7 @@ companies:
   is_api_provider: false
   slug: joyride
   matched_by: name-slug
+  x-url-candidate: https://joyride.com
 - name: Dollar Shave Club
   url: https://www.dollarshaveclub.com
   description: Direct-to-consumer razor and grooming subscription brand.
@@ -919,7 +946,7 @@ companies:
   slug: dollar-shave
   matched_by: domain
 - name: True & Co
-  url: null
+  url: https://trueandco.com/
   description: Direct-to-consumer intimates and bras brand.
   sector: consumer
   stage: series-b
@@ -928,9 +955,10 @@ companies:
   in_network: true
   is_api_provider: false
   slug: true-and-co
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Hone
-  url: null
+  url: https://honehq.com
   description: Cowboy Ventures portfolio company.
   sector: future-of-work
   stage: seed
@@ -939,7 +967,8 @@ companies:
   in_network: true
   is_api_provider: false
   slug: hone
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Byteboard
   url: https://byteboard.dev
   description: Real-world technical interview platform for engineering hiring.
@@ -952,7 +981,7 @@ companies:
   slug: byteboard
   matched_by: domain
 - name: SlideRule
-  url: null
+  url: https://www.sliderule.io/
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
@@ -961,9 +990,10 @@ companies:
   in_network: true
   is_api_provider: false
   slug: sliderule
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Zeen
-  url: null
+  url: https://zeen.com
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
@@ -972,4 +1002,5 @@ companies:
   in_network: true
   is_api_provider: false
   slug: zeen
-  matched_by: name-slug
+  matched_by: domain
+  x-url-source: network-repo (title-verified 2026-10-18)
