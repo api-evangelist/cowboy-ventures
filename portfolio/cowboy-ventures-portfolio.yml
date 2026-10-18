@@ -3,9 +3,9 @@ method: searched
 source: https://www.cowboy.vc/portfolio
 summary:
   portfolio_total: 88
-  in_network: 85
+  in_network: 86
   api_providers: 17
-  missing: 3
+  missing: 2
   stubs_created: 0
 companies:
 - name: Guild
@@ -460,15 +460,17 @@ companies:
   slug: fullcast
   matched_by: domain
 - name: Novi
-  url: null
+  url: https://www.noviconnect.com/
   description: Cowboy Ventures portfolio company.
   sector: unknown
   stage: seed
   status: active
   source: https://www.cowboy.vc/portfolio/novi
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: novi
+  x-url-source: web search 2026-10-18
+  slug: noviconnect
+  matched_by: domain
 - name: Gixo
   url: null
   description: Live-streamed fitness and workout classes.
